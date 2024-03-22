@@ -17,8 +17,3 @@ I'm Giovanni Giacalone, also known as JackAlone and I am a Game Programmer parti
 - C#
 - Unreal Engine 5
 - Unity
-
--->
-
-
-
