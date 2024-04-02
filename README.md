@@ -10,7 +10,7 @@ I'm Giovanni Giacalone, also known as JackAlone and I am a Game Programmer parti
 - 🌱 I’m currently learning how to use the Gameplay Ability System Component (GAS) and how it works while (always )honing my coding skills 
 - 👯 I’m always open for collaboration as long as the project is interesting fun!
 - :battery: During my free time I like to play :video_game: videogames (of course) and read about :space_invader: space facts!
-- 📫 How to reach me: (website coming soon)
+- 📫 You can find all my contact informations and all the specifics about my projects on my website: [giovannigiacalone.com](giovannigiacalone.com)
 
 ## Languages and Game Engines
 - C++
