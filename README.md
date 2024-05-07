@@ -8,7 +8,7 @@ I'm Giovanni Giacalone, also known as JackAlone and I am a Game Programmer parti
     - :computer: A simple game engine built in C++ using the ImGui and SFML libraries based on the Entity Component System design pattern;
     - :video_game: A demo where I am trying to replicate Cyberpunk 2077 quickhack system and character movement.
 - 🌱 I’m currently learning how to use the Gameplay Ability System Component (GAS) and how it works while (always )honing my coding skills 
-- 👯 I’m always open for collaboration as long as the project is interesting fun!
+- I’m always open for collaboration as long as the project is interesting fun!
 - :battery: During my free time I like to play :video_game: videogames (of course) and read about :space_invader: space facts!
 - 📫 You can find all my contact informations and all the specifics about my projects on my website: [giovannigiacalone.com](https://giovannigiacalone.com/)
 
